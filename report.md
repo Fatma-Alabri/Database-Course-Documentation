@@ -122,3 +122,11 @@ Relational Databases:
 
 -Administration burden: requires DBMS setup, tuning, backups, and often a DBA.
 
+
+
+
+
+\[DBMS Mind Map](images/DBMS\_Adv.png)
+
+
+
